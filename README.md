@@ -27,11 +27,19 @@ GearGuru/
 ## Snapshots
 
 ![Home Page](snapshots/home.png)
+
 ![Login Page](snapshots/login.png)
+
 ![Signup Page](snapshots/signup.png)
+
 ![Car Brands Selection](snapshots/brand.png)
+
 ![Car Shop Page](snapshots/car.png)
+
 ![Part Selection](snapshots/parts.png)
+
 ![Part Shop Page](snapshots/partShop.png)
+
 ![Cart Page](snapshots/cart.png)
+
 ![User Profile Page](snapshots/profile.png)
